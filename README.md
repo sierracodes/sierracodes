@@ -1,6 +1,6 @@
 👋 Hi, I’m Sierra
 
-I'm currently working on autonomous vehicle simulation at Cruise. Contact me on [LinkedIn](https://www.linkedin.com/in/sierrageg/).
+I'm currently working on autonomous vehicle simulation at Cruise. Contact me on [LinkedIn](https://www.linkedin.com/in/sierrageg/), or check out my Django-based music tracking app below.
 
 
 <!---
